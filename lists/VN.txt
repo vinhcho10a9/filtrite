@@ -1,13 +1,41 @@
+#Dựng sẵn
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/filters.min.txt
 https://ublockorigin.github.io/uAssetsCDN/filters/badware.min.txt
 https://ublockorigin.pages.dev/filters/privacy.min.txt
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/quick-fixes.min.txt
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/unbreak.min.txt
-
+#Quảng cáo
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/thirdparties/easylist.txt
 https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
 https://filters.adtidy.org/extension/ublock/filters/11.txt
-
+#Riêng tư
+https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/thirdparties/easyprivacy.txt
+https://filters.adtidy.org/extension/ublock/filters/3.txt
+https://filters.adtidy.org/extension/ublock/filters/17.txt
+https://ublockorigin.pages.dev/filters/lan-block.txt
+#Bảo mật, bảo vệ khỏi phần mềm nguy hiểm
+https://curbengh.github.io/malware-filter/urlhaus-filter-ag-online.txt
+https://phishing-filter.pages.dev/phishing-filter.txt
+#Các thông báo cookie
+https://ublockorigin.github.io/uAssetsCDN/thirdparties/easylist-cookies.txt
+https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/annoyances-cookies.txt
+https://filters.adtidy.org/extension/ublock/filters/18.txt
+https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/annoyances-cookies.txt
+#Tiện ích xã hội
+https://ublockorigin.pages.dev/thirdparties/easylist-social.txt
+https://filters.adtidy.org/extension/ublock/filters/4.txt
+https://secure.fanboy.co.nz/fanboy-antifacebook.txt
+#Phiền toái
+https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/thirdparties/easylist-chat.txt
+https://ublockorigin.github.io/uAssetsCDN/thirdparties/easylist-newsletters.txt
+https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/thirdparties/easylist-notifications.txt
+https://ublockorigin.pages.dev/thirdparties/easylist-annoyances.txt
+https://filters.adtidy.org/extension/ublock/filters/20.txt
+https://filters.adtidy.org/extension/ublock/filters/21.txt
+https://filters.adtidy.org/extension/ublock/filters/19.txt
+https://filters.adtidy.org/extension/ublock/filters/22.txt
+https://ublockorigin.github.io/uAssetsCDN/filters/annoyances.min.txt
+#Khu vực, ngôn ngữ
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt
 https://raw.githubusercontent.com/vinhcho10a9/adblock/main/ads
 https://raw.githubusercontent.com/vinhcho10a9/adblock/main/dns
