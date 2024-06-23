@@ -1,1 +1,5 @@
-
+https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/filters.min.txt
+https://ublockorigin.github.io/uAssetsCDN/filters/badware.min.txt
+https://ublockorigin.pages.dev/filters/privacy.min.txt
+https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/quick-fixes.min.txt
+https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/unbreak.min.txt
