@@ -1,0 +1,3 @@
+https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/thirdparties/easylist.txt
+https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
+https://filters.adtidy.org/extension/ublock/filters/11.txt
