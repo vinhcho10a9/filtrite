@@ -5,9 +5,9 @@ https://ublockorigin.pages.dev/filters/privacy.min.txt
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/quick-fixes.min.txt
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/unbreak.min.txt
 #Quảng cáo
-https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/thirdparties/easylist.txt
-https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
-https://filters.adtidy.org/extension/ublock/filters/11.txt
+https://easylist.to/easylist/easylist.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 #Riêng tư
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/thirdparties/easyprivacy.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
@@ -36,6 +36,6 @@ https://filters.adtidy.org/extension/ublock/filters/19.txt
 https://filters.adtidy.org/extension/ublock/filters/22.txt
 https://ublockorigin.github.io/uAssetsCDN/filters/annoyances.min.txt
 #Khu vực, ngôn ngữ
-https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt
+https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 https://raw.githubusercontent.com/vinhcho10a9/adblock/main/ads
 https://raw.githubusercontent.com/vinhcho10a9/adblock/main/dns
