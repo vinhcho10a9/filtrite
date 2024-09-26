@@ -1,9 +1,12 @@
+#Dựng sẵn
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/filters.min.txt
 https://ublockorigin.github.io/uAssetsCDN/filters/badware.min.txt
 https://ublockorigin.pages.dev/filters/privacy.min.txt
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/quick-fixes.min.txt
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/unbreak.min.txt
-
-https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/thirdparties/easylist.txt
+#Quảng cáo
+https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/thirdparties/easylist.txt
 https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
 https://filters.adtidy.org/extension/ublock/filters/11.txt
+https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt
+https://raw.githubusercontent.com/vinhcho10a9/adblock/main/dns
