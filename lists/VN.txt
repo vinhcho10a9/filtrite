@@ -7,7 +7,7 @@ https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/unbreak.min.tx
 #Quảng cáo
 https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/thirdparties/easylist.txt
 https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+https://filters.adtidy.org/extension/ublock/filters/11.txt
 #Riêng tư
 https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/thirdparties/easyprivacy.txt
 https://filters.adtidy.org/extension/ublock/filters/3.txt
